@@ -1,0 +1,31 @@
+{
+  "created": "2026-11-13",
+  "country": "de",
+  "glasshouseCommit": "681736d595ef0a0cefd8695f0f666ae07c42551a",
+  "source": "server/lib/privacy.js generated Ads and Everything lists with saved country de and clock grace closed",
+  "additionalStarterDomains": {
+    "static.doubleclick.net": {
+      "observedInUserLog": true,
+      "source": "https://support.google.com/campaignmanager/table/6096962?hl=en-VC"
+    }
+  },
+  "files": {
+    "01-ads-and-telemetry.txt": 89,
+    "02-optional-lg-services.txt": 63,
+    "03-optional-clock-sensitive.txt": 35
+  },
+  "excludedObservedDomains": [
+    "wpad.fritz.box",
+    "lgtvonline.lge.com",
+    "connectivitycheck.gstatic.com",
+    "www.gstatic.com",
+    "clients3.google.com",
+    "clients4.google.com",
+    "tools.google.com",
+    "discovery.meethue.com",
+    "de.emp.lgsmartplatform.com",
+    "eligibility-panelresearch.googlevideo.com"
+  ],
+  "exactNamesOnly": true,
+  "hardwareValidated": false
+}
