@@ -1,0 +1,9 @@
+app-lgwebos.pluto.tv
+bss.lgechannel.com
+eic.lgchhomeapp.lgtvcommon.com
+lg-channelplus-eu-beacons.xumo.com
+lg-channelplus-eu-mds.xumo.com
+lgchhomeapp.lgtvcommon.com
+lgechannel.com
+sp.pluto.tv
+tags.tiqcdn.com

@@ -1,0 +1,6 @@
+nsu.lge.com
+snu-dev.lge.com
+snu.lge.com
+su-dev.lge.com
+su-ssl.lge.com
+su.lge.com
